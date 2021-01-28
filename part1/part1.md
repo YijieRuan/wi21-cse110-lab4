@@ -13,7 +13,7 @@
 13. A. Accessing the value of the name property in the student object by **student.name**
     B. Accessing the value of the Grad Year property in the student object by **student['Grad Year']**
     C. Calling the function for the greeting property in the student object by **student.greeting()**
-    D. Accessing the name property of the object in the Favorite Teacher property in student by **student['Favorite Teacher].name**
+    D. Accessing the name property of the object in the Favorite Teacher property in student by **student['Favorite Teacher'].name**
     E. Access the first index in the array of the courseLoad property of the student object by **student.courseLoad[0]**
 14. A. ‘3’ + 2 will output **32** as 3 being a string, it became a concatenation.
     B. ‘3’ - 2 will output **1** as 3 being a string and 2 being a number with a none add expression, convert string into number and 3 - 2 equals to 1.
