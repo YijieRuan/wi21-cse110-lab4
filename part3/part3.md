@@ -3,7 +3,7 @@ DevTools: Debugging
 * I would fix this by convert both **num1** and **num2** type into number. So what I did was to put a **Number()** when the function is declaring both **num1** and **num2** in **printSum()** function. See more on my screenshot of **fixed_version.png**
 
 DevTools - Network Tab
-1. ./citylots.json
+1. citylots.json
 2. part2.js
 3. 11.1MB
 4. 7.04s
