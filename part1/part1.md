@@ -9,7 +9,7 @@
 9. Line 11 will have error since *i* is declared as **let** and out of the scope of for loop. It will not output the test not defined error since the error before line 11 will occur before that.
 10. Line 12 will have error since *discountedPrice* is declared as **const** and out of the scope of for loop.
 11. Assuming all previous with no errors, line 13 will print 0, for *finalPrice* was declared as **const**, initalized as value 0, and unable to reassign the value due to the trait of **const**.
-12. The function will have error since there exist multiple lines trying to reassign the **const** variables.
+12. The function will have error since there exist multiple lines trying to reassign the **const** variables. Assuming all previous with no errors, it will return [0,0,0] since the for loop will assign 0 to discounted three time since discountPrice would never change into anything and it is initially 0.
 13. A. Accessing the value of the name property in the student object by **student.name**
 
     B. Accessing the value of the Grad Year property in the student object by **student['Grad Year']**
